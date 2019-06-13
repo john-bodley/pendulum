@@ -143,7 +143,7 @@ The following tokens are currently supported:
 |                                | ZZ            | -0700, -0600 ... +0600, +0700              |
 |                                | z             | Asia/Baku, Europe/Warsaw, GMT ...          |
 |                                | zz            | EST CST ... MST PST                        |
-| **Seconds timestamp**          | X             | 1381685817, 1234567890.123                 |
+| **Seconds timestamp**          | X             | 1381685817                                 |
 | **Microseconds timestamp**     | x             | 1234567890123                              |
 
 
